@@ -1,0 +1,19 @@
+{
+    "users": {
+      "1": {
+        "id": 1,
+        "name": "Teezy",
+        "smscode": "1234"
+      },
+      "2": {
+        "id": 2,
+        "name": "Markku",
+        "smscode": "0420"
+      },
+      "3": {
+        "id": 3,
+        "name": "Tom",
+        "smscode": "1010"
+      }
+    }
+  }

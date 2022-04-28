@@ -1,0 +1,18 @@
+{
+  "name": "bad_api",
+  "version": "1.0.0",
+  "description": "example of no api security",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Miikka Kivinen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.0",
+    "fs": "0.0.1-security",
+    "nodemon": "^2.0.15"
+  }
+}
